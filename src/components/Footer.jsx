@@ -29,7 +29,7 @@ const Footer = () => {
             <h3 className="text-xl font-semibold">Owner: Rajesh Kumar Gupta</h3>
             <p className="flex justify-center md:justify-start items-center">
               <FaPhone className="mr-2" />
-              <span>9931738900</span>
+              <span>XXXXXXXXX</span>
             </p>
           </div>
           <div>
